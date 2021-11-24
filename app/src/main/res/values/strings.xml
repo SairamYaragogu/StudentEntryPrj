@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentEntryPrj</string>
+    <string name="create_student">Create Student</string>
+    <string name="proceed">Proceed</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="studentEmail">Student Email</string>
+    <string name="student_name">Student Name</string>
+</resources>
